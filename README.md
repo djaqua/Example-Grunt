@@ -9,11 +9,14 @@
         - interactive configuration for package.json
 
     npm install --save grunt
-        - 
-
-    npm install --save grunt-contrib-uglify
-        -
+        - installs grunt locally and saves the installation as a 
+          dependency in package.json
 
 * Command to install this package and its dependencies 
     
     npm install
+
+* Command to run the 'default' grunt task
+
+    grunt
+
