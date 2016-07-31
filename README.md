@@ -1,6 +1,6 @@
 # Example-Grunt
 
-* Commands used to install Grunt:
+* Commands used to initialize this package
 
     npm install -g grunt-cli
         - used to configure system-wide Grunt CLI 
@@ -14,4 +14,6 @@
     npm install --save grunt-contrib-uglify
         -
 
-
+* Command to install this package and its dependencies 
+    
+    npm install
