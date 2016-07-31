@@ -1,0 +1,23 @@
+{
+  "name": "example-grunt",
+  "version": "1.0.0",
+  "description": "Basic grunt project example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djaqua/Example-Grunt.git"
+  },
+  "author": "Drew Jaqua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djaqua/Example-Grunt/issues"
+  },
+  "homepage": "https://github.com/djaqua/Example-Grunt#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0"
+  }
+}
